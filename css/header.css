@@ -35,3 +35,21 @@
 .contacts a:focus {
     color: #404bbf;
 }
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav {
+    display: flex;
+    align-items: center;
+    gap: 76px;
+}
+nav ul {
+    display: flex;
+    gap: 40px;
+}
+.contacts ul {
+    display: flex;
+    gap: 40px;
+}

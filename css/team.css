@@ -24,4 +24,10 @@ text-align: center;
 }
 .team li {
     background-color: #ffffff;
+    width: calc((100% - 72px) / 4);
 }
+.team ul {
+    display: flex;
+    gap: 24px;
+}
+
