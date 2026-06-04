@@ -24,4 +24,16 @@
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
-    lette
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    background-color: #4d5ae5;
+
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.hero-button:hover,
+.hero-button:focus {
+    background-color: #404bbf;
+}
