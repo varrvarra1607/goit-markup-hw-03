@@ -9,7 +9,9 @@
 .footer .logo span {
     color: #4d5ae5;
 }
-.footer p {
+.footer-text {
+    margin-top: 16px;
+
     color: #f4f4fd;
     line-height: 1.5;
     letter-spacing: 0.02em;
